@@ -138,7 +138,7 @@ app.use((err, req, res, next) => {
 
 // Start server
 const PORT = process.env.PORT || 8080;
-server.listen(PORT, async () => {
+server.listen(PORT, '0.0.0.0', async () => {
   try {
     await main();
     console.log(`Server running on http://localhost:${PORT}`);
