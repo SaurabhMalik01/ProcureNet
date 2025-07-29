@@ -1,6 +1,24 @@
-<<<<<<< HEAD
-# AuctionPro
-=======
-# ProcureNet-Online-Auction-System
-A secure and user-friendly online auction platform with real-time bidding, item listings, and live auction tracking, built for transparent and engaging transactions.
->>>>>>> cdfdd1d3b90ab1ca951142eaeb86b23aa679523c
+# ProcureNet – Online Auction System
+
+ProcureNet is a secure and user-friendly full-stack online auction platform that allows users to register, list items, place real-time bids, and track live auctions. Designed for smooth interaction and transparent transactions between buyers and sellers.
+
+---
+
+## 🚀 Features
+
+- 🧑 User registration and authentication
+- 📦 Product listing with images and descriptions
+- 💸 Real-time bidding system
+- 📊 Live auction tracking
+- 🔐 Secure, role-based access control
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+  
+ ---
+
